@@ -1,5 +1,6 @@
 # botnet
 ![tweet](https://steamuserimages-a.akamaihd.net/ugc/943951547336911675/8FC1DADCBAF77B83508E1E203373F3EEFF9D7DF9/)
+![image](https://img.shields.io/badge/-Telegram-blue)(https://t.me/akira96)
 
 
 # REQUIREMENTS :
@@ -27,4 +28,3 @@ python2 botnet.py http://example.com
 ```
 
 
-![image](https://img.shields.io/badge/-Telegram-blue)(https://t.me/akira96)
