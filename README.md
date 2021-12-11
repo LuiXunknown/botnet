@@ -19,6 +19,7 @@ apt update && apt upgrade
 ```
 apt install git python python2
 ```
+```
 git clone https://github.com/L0rdK1r422/botnet
 ```
 
